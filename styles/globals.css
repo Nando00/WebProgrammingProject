@@ -14,3 +14,15 @@ a {
 * {
   box-sizing: border-box;
 }
+section {
+  margin: 20px 0;
+  background-image: linear-gradient(
+      rgba(255, 255, 255, 0.5),
+      rgba(255, 255, 255, 0.5)
+    ),
+    url("../public/donkey.jpg");
+  border-radius: 1%;
+  height: 500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
