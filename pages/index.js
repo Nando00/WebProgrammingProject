@@ -8,7 +8,7 @@ export default function Home() {
           <div class="col-lg-6 col-md-8 mx-auto">
             <h1 class="fw-light">Help the Animals!</h1>
             <p class="lead ">
-              Donkeys need help, Lorem ipsum dolor sit amet consectetur
+              Donkeys suck, Lorem ipsum dolor sit amet consectetur
               adipisicing elit. Aliquid exercitationem, quaerat ad hic
               aspernatur repellendus facilis dolore rerum deserunt ullam ipsam!
               Dolorum minus id sequi ipsam quae adipisci cupiditate voluptatum.
