@@ -3,24 +3,30 @@ import Image from "next/image";
 export default function Home() {
   return (
     <main>
-      <section class=" py-5 text-center container">
-        <div class="row py-lg-5">
-          <div class="col-lg-6 col-md-8 mx-auto">
-            <h1 class="fw-light">Help the Animals!</h1>
-            <p class="lead ">
-              Donkeys need help, Lorem ipsum dolor sit amet consectetur
-              adipisicing elit. Aliquid exercitationem, quaerat ad hic
-              aspernatur repellendus facilis dolore rerum deserunt ullam ipsam!
-              Dolorum minus id sequi ipsam quae adipisci cupiditate voluptatum.
-            </p>
-            <p>
-              {/* <a href="#" class="btn btn-primary my-2 me-2">
-                Main call to action
-              </a>
-              <a href="#" class="btn btn-secondary my-2">
-                Secondary action
-              </a> */}
-            </p>
+      <section class=" text-center container">
+        <div class="row justify-content-start">
+          <div class="first-part-landing col-6">
+            <Image
+              src="/animal-logo2sc.png"
+              alt="Picture of the author"
+              width={500}
+              height={500}
+            />
+          </div>
+
+          <div className="col-6 card mx-auto text-white">
+            <div class="card-body">
+              <h5 class="card-title top-text">Enjoy the Wildlife?</h5>
+              <p class="card-text">
+                View & learn about extinct animals all over the world!
+              </p>
+              <button
+                className="btn  text-white landing-btn card-link"
+                type="submit"
+              >
+                YES TAKE ME NOW!
+              </button>
+            </div>
           </div>
         </div>
       </section>
