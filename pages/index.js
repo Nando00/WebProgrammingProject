@@ -3,6 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <main>
+<<<<<<< HEAD
       <section class=" text-center container">
         <div class="row justify-content-start">
           <div class="first-part-landing col-6">
@@ -27,6 +28,26 @@ export default function Home() {
                 YES TAKE ME NOW!
               </button>
             </div>
+=======
+      <section class=" py-5 text-center container">
+        <div class="row py-lg-5">
+          <div class="col-lg-6 col-md-8 mx-auto">
+            <h1 class="fw-light">Help the Animals!</h1>
+            <p class="lead ">
+              Donkeys suck, Lorem ipsum dolor sit amet consectetur
+              adipisicing elit. Aliquid exercitationem, quaerat ad hic
+              aspernatur repellendus facilis dolore rerum deserunt ullam ipsam!
+              Dolorum minus id sequi ipsam quae adipisci cupiditate voluptatum.
+            </p>
+            <p>
+              {/* <a href="#" class="btn btn-primary my-2 me-2">
+                Main call to action
+              </a>
+              <a href="#" class="btn btn-secondary my-2">
+                Secondary action
+              </a> */}
+            </p>
+>>>>>>> c1ce94736386dab7c249e9239a2c7df6452836e9
           </div>
         </div>
       </section>
