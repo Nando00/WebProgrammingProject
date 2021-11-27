@@ -13,15 +13,15 @@ export default function Header() {
               <Image src="/animal-logo2sc.png" width="100" height="92"></Image>
             </a>
 
-            <ul class="nav col-12 col-lg-auto my-2 justify-content-center my-md-0 text-small">
+            <ul class="nav col-12 col-lg-auto my-2 justify-content-center my-md-0 top-tex">
               <li>
-                <a href="#" class="nav-link text-white">
+                <a href="/" class="nav-link text-white">
                   <svg
                     class="bi d-block mx-auto mb-1"
                     width="24"
                     height="24"
                   ></svg>
-                  Home
+                  Discover
                 </a>
               </li>
               <li>
@@ -31,37 +31,7 @@ export default function Header() {
                     width="24"
                     height="24"
                   ></svg>
-                  Dashboard
-                </a>
-              </li>
-              <li>
-                <a href="#" class="nav-link text-white">
-                  <svg
-                    class="bi d-block mx-auto mb-1"
-                    width="24"
-                    height="24"
-                  ></svg>
-                  Orders
-                </a>
-              </li>
-              <li>
-                <a href="#" class="nav-link text-white">
-                  <svg
-                    class="bi d-block mx-auto mb-1"
-                    width="24"
-                    height="24"
-                  ></svg>
-                  Products
-                </a>
-              </li>
-              <li>
-                <a href="#" class="nav-link text-white">
-                  <svg
-                    class="bi d-block mx-auto mb-1"
-                    width="24"
-                    height="24"
-                  ></svg>
-                  Customers
+                  Charities
                 </a>
               </li>
             </ul>
