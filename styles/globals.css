@@ -2,8 +2,7 @@
 html,
 body {
   background-color: black;
-  padding: 0;
-  margin: 0;
+
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
@@ -27,6 +26,21 @@ body {
   letter-spacing: 0em;
   text-align: center;
 }
+/*this is the side by side things*/
+.featurette-heading {
+  margin-top: 20%;
+  font-size: 50px;
+}
+
+.featurette-cont {
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.featurette {
+  margin-top: 10%;
+  font-family: Rammetto One;
+}
+/*  */
 .landing-btn {
   height: 100px;
   width: 245px;
