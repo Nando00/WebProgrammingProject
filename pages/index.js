@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
+import Link from "next/link";
 export default function Home() {
   return (
     <main>
@@ -7,12 +8,16 @@ export default function Home() {
         <div className="container">
           <div class="row justify-content-start">
             <div class="first-part-landing col-6">
-              <Image
-                src="/animal-logo2sc.png"
-                alt="Picture of the author"
-                width={500}
-                height={500}
-              />
+              <Link href="/">
+                <a>
+                  <Image
+                    src="/animal-logo2sc.png"
+                    alt="Picture of the author"
+                    width={500}
+                    height={500}
+                  />
+                </a>
+              </Link>
             </div>
 
             <div className="col-6 card mx-auto text-white">

@@ -10,7 +10,7 @@ export default function Header() {
               href="/"
               class="d-flex align-items-center my-2 my-lg-0 me-lg-auto text-white text-decoration-none"
             >
-              <Image src="/animal-logo2sc.png" width="100" height="92"></Image>
+              <Image src="/" width="100" height="92"></Image>
             </a>
 
             <ul class="nav col-12 col-lg-auto my-2 justify-content-center my-md-0 top-tex">
