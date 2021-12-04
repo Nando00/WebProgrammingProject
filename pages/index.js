@@ -42,13 +42,12 @@ export default function Home() {
         <div className="container featurette-cont">
           <div class="row featurette">
             <div class=" text-white col-md-7">
-              <h2 class="featurette-heading">
-                First featurette heading.{" "}
-                <span class="text-muted">It’ll blow your mind.</span>
-              </h2>
+              <h2 class="featurette-heading">African Forest Elephant</h2>
               <p class="text-white lead">
-                Some great placeholder content for the first featurette here.
-                Imagine some exciting prose here.
+                Inhabits the dense rainforests of west and central Africa. Since
+                the diet of forest elephants is dominated by fruit, they play a
+                crucial role in dispersing many tree species, particularly the
+                seeds of large trees which tend to have high carbon content.
               </p>
             </div>
             <div class="col-md-5">
@@ -60,54 +59,10 @@ export default function Home() {
               />
             </div>
           </div>
+
           <div class="row featurette">
             <div class="text-white col-md-7 order-md-2">
-              <h2 class="featurette-heading">
-                Oh yeah, it’s that good.{" "}
-                <span class="text-muted">See for yourself.</span>
-              </h2>
-              <p class="lead">
-                Another featurette? Of course. More placeholder content here to
-                give you an idea of how this layout would work with some actual
-                real-world content in place.
-              </p>
-            </div>
-            <div class="col-md-5 order-md-1">
-              <Image
-                className="rounded "
-                width={550}
-                height={500}
-                src="/amur leopard.jpg"
-              />
-            </div>
-          </div>
-          <div class="row featurette">
-            <div class="text-white col-md-7">
-              <h2 class="featurette-heading">
-                And lastly, this one. <span class="text-muted">Checkmate.</span>
-              </h2>
-              <p class="lead">
-                And yes, this is the last block of representative placeholder
-                content. Again, not really intended to be actually read, simply
-                here to give you a better view of what this would look like with
-                some actual content. Your content.
-              </p>
-            </div>
-            <div class="text-white col-md-5">
-              <Image
-                className="rounded "
-                width={550}
-                height={500}
-                src="/Black-footed Ferret.jpg"
-              />
-            </div>
-          </div>
-          <div class="row featurette">
-            <div class="text-white col-md-7 order-md-2">
-              <h2 class="featurette-heading">
-                Oh yeah, it’s that good.{" "}
-                <span class="text-muted">See for yourself.</span>
-              </h2>
+              <h2 class="featurette-heading">Blue Whale</h2>
               <p class="lead">
                 Another featurette? Of course. More placeholder content here to
                 give you an idea of how this layout would work with some actual
@@ -123,100 +78,15 @@ export default function Home() {
               />
             </div>
           </div>
+
           <div class="row featurette">
             <div class="text-white col-md-7">
-              <h2 class="featurette-heading">
-                And lastly, this one. <span class="text-muted">Checkmate.</span>
-              </h2>
+              <h2 class="featurette-heading">Cross River Gorilla</h2>
               <p class="lead">
-                And yes, this is the last block of representative placeholder
-                content. Again, not really intended to be actually read, simply
-                here to give you a better view of what this would look like with
-                some actual content. Your content.
-              </p>
-            </div>
-            <div class="text-white col-md-5">
-              <Image
-                className="rounded "
-                width={550}
-                height={500}
-                src="/Bonobo.jpg"
-              />
-            </div>
-          </div>
-          <div class="row featurette">
-            <div class="text-white col-md-7 order-md-2">
-              <h2 class="featurette-heading">
-                Oh yeah, it’s that good.{" "}
-                <span class="text-muted">See for yourself.</span>
-              </h2>
-              <p class="lead">
-                Another featurette? Of course. More placeholder content here to
-                give you an idea of how this layout would work with some actual
-                real-world content in place.
-              </p>
-            </div>
-            <div class="col-md-5 order-md-1">
-              <Image
-                className="rounded "
-                width={550}
-                height={500}
-                src="/Bornean Elephant.jpg"
-              />
-            </div>
-          </div>
-          <div class="row featurette">
-            <div class="text-white col-md-7">
-              <h2 class="featurette-heading">
-                And lastly, this one. <span class="text-muted">Checkmate.</span>
-              </h2>
-              <p class="lead">
-                And yes, this is the last block of representative placeholder
-                content. Again, not really intended to be actually read, simply
-                here to give you a better view of what this would look like with
-                some actual content. Your content.
-              </p>
-            </div>
-            <div class="text-white col-md-5">
-              <Image
-                className="rounded "
-                width={550}
-                height={500}
-                src="/bornean orangutan.jpg"
-              />
-            </div>
-          </div>
-          <div class="row featurette">
-            <div class="text-white col-md-7 order-md-2">
-              <h2 class="featurette-heading">
-                Oh yeah, it’s that good.{" "}
-                <span class="text-muted">See for yourself.</span>
-              </h2>
-              <p class="lead">
-                Another featurette? Of course. More placeholder content here to
-                give you an idea of how this layout would work with some actual
-                real-world content in place.
-              </p>
-            </div>
-            <div class="col-md-5 order-md-1">
-              <Image
-                className="rounded "
-                width={550}
-                height={500}
-                src="/Chimpanzee.jpg"
-              />
-            </div>
-          </div>
-          <div class="row featurette">
-            <div class="text-white col-md-7">
-              <h2 class="featurette-heading">
-                And lastly, this one. <span class="text-muted">Checkmate.</span>
-              </h2>
-              <p class="lead">
-                And yes, this is the last block of representative placeholder
-                content. Again, not really intended to be actually read, simply
-                here to give you a better view of what this would look like with
-                some actual content. Your content.
+                Cross River gorillas are scattered in lowland montane forests
+                and rainforests of Cameroon and Nigeria,200 to 300 of these
+                gorillas left in the wild. Poaching, disease and habitat
+                destruction remain threats for gorillas.
               </p>
             </div>
             <div class="text-white col-md-5">
@@ -228,58 +98,17 @@ export default function Home() {
               />
             </div>
           </div>
+
           <div class="row featurette">
             <div class="text-white col-md-7 order-md-2">
-              <h2 class="featurette-heading">
-                Oh yeah, it’s that good.{" "}
-                <span class="text-muted">See for yourself.</span>
-              </h2>
+              <h2 class="featurette-heading">Hawksbill Turtle</h2>
               <p class="lead">
-                Another featurette? Of course. More placeholder content here to
-                give you an idea of how this layout would work with some actual
-                real-world content in place.
-              </p>
-            </div>
-            <div class="col-md-5 order-md-1">
-              <Image
-                className="rounded "
-                width={550}
-                height={500}
-                src="/eastern lowland gorilla.jpg"
-              />
-            </div>
-          </div>
-          <div class="row featurette">
-            <div class="text-white col-md-7">
-              <h2 class="featurette-heading">
-                And lastly, this one. <span class="text-muted">Checkmate.</span>
-              </h2>
-              <p class="lead">
-                And yes, this is the last block of representative placeholder
-                content. Again, not really intended to be actually read, simply
-                here to give you a better view of what this would look like with
-                some actual content. Your content.
-              </p>
-            </div>
-            <div class="text-white col-md-5">
-              <Image
-                className="rounded "
-                width={550}
-                height={500}
-                src="/gpen.jpg"
-              />
-            </div>
-          </div>
-          <div class="row featurette">
-            <div class="text-white col-md-7 order-md-2">
-              <h2 class="featurette-heading">
-                Oh yeah, it’s that good.{" "}
-                <span class="text-muted">See for yourself.</span>
-              </h2>
-              <p class="lead">
-                Another featurette? Of course. More placeholder content here to
-                give you an idea of how this layout would work with some actual
-                real-world content in place.
+                Sea Turtles are the living representatives of a group of
+                reptiles that has existed on Earth and travelled our seas for
+                the last 100 million years!!! The loss of nesting habitat and
+                coral reefs due to coastal development, rising seas from climate
+                change, poaching and pollution. They rely on coral reefs for
+                food resources and habitat.
               </p>
             </div>
             <div class="col-md-5 order-md-1">
@@ -291,37 +120,16 @@ export default function Home() {
               />
             </div>
           </div>
-          <div class="row featurette">
-            <div class="text-white col-md-7">
-              <h2 class="featurette-heading">
-                And lastly, this one. <span class="text-muted">Checkmate.</span>
-              </h2>
-              <p class="lead">
-                And yes, this is the last block of representative placeholder
-                content. Again, not really intended to be actually read, simply
-                here to give you a better view of what this would look like with
-                some actual content. Your content.
-              </p>
-            </div>
-            <div class="text-white col-md-5">
-              <Image
-                className="rounded "
-                width={550}
-                height={500}
-                src="/Humphead Wrasse.jpg"
-              />
-            </div>
-          </div>
+
           <div class="row featurette">
             <div class="text-white col-md-7 order-md-2">
-              <h2 class="featurette-heading">
-                Oh yeah, it’s that good.{" "}
-                <span class="text-muted">See for yourself.</span>
-              </h2>
+              <h2 class="featurette-heading">African Rhino</h2>
               <p class="lead">
-                Another featurette? Of course. More placeholder content here to
-                give you an idea of how this layout would work with some actual
-                real-world content in place.
+                There is three kinds of rhinos but there is only two white
+                rhinos left in the world. They eat trees and bushes. Their
+                habitat or source of food isn’t why they're going extinct. They
+                are facing a constant threat of poaching for their horns. There
+                is only 27,000 rhinos left in the world.
               </p>
             </div>
             <div class="col-md-5 order-md-1">
@@ -333,58 +141,17 @@ export default function Home() {
               />
             </div>
           </div>
+
           <div class="row featurette">
             <div class="text-white col-md-7">
-              <h2 class="featurette-heading">
-                And lastly, this one. <span class="text-muted">Checkmate.</span>
-              </h2>
+              <h2 class="featurette-heading">Yangtze Finless Porpoise</h2>
               <p class="lead">
-                And yes, this is the last block of representative placeholder
-                content. Again, not really intended to be actually read, simply
-                here to give you a better view of what this would look like with
-                some actual content. Your content.
-              </p>
-            </div>
-            <div class="text-white col-md-5">
-              <Image
-                className="rounded "
-                width={550}
-                height={500}
-                src="/sundatiger.jpg"
-              />
-            </div>
-          </div>
-          <div class="row featurette">
-            <div class="text-white col-md-7 order-md-2">
-              <h2 class="featurette-heading">
-                Oh yeah, it’s that good.{" "}
-                <span class="text-muted">See for yourself.</span>
-              </h2>
-              <p class="lead">
-                Another featurette? Of course. More placeholder content here to
-                give you an idea of how this layout would work with some actual
-                real-world content in place.
-              </p>
-            </div>
-            <div class="col-md-5 order-md-1">
-              <Image
-                className="rounded "
-                width={550}
-                height={500}
-                src="/vaquita.jpg"
-              />
-            </div>
-          </div>
-          <div class="row featurette">
-            <div class="text-white col-md-7">
-              <h2 class="featurette-heading">
-                And lastly, this one. <span class="text-muted">Checkmate.</span>
-              </h2>
-              <p class="lead">
-                And yes, this is the last block of representative placeholder
-                content. Again, not really intended to be actually read, simply
-                here to give you a better view of what this would look like with
-                some actual content. Your content.
+                The Yangtze finless porpoise, is known for its mischievous smile
+                and has a level of intelligence comparable to that of a gorilla.
+                There is only 1000-1800 of them left in the world. They’re in
+                the longest river of Asia “The Yangtze River” The destruction of
+                the Baiji dolphin food supply was central to its extinction.
+                Overfishing is the main factor
               </p>
             </div>
             <div class="text-white col-md-5">

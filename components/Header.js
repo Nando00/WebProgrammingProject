@@ -24,7 +24,7 @@ export default function Header() {
                   Discover
                 </a>
               </li>
-              <li>
+              {/* <li>
                 <a href="#" class="nav-link text-white">
                   <svg
                     class="bi d-block mx-auto mb-1"
@@ -33,7 +33,7 @@ export default function Header() {
                   ></svg>
                   Charities
                 </a>
-              </li>
+              </li> */}
             </ul>
           </div>
         </div>
