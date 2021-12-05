@@ -10,14 +10,12 @@ export default function Home() {
             <div className="row justify-content-start">
               <div className="first-part-landing col-6">
                 <Link href="/">
-                  <a>
-                    <Image
-                      src="/animal-logo2sc.png"
-                      alt="Picture of the author"
-                      width={500}
-                      height={500}
-                    />
-                  </a>
+                  <Image
+                    src="/animal-logo2sc.png"
+                    alt="Picture of the author"
+                    width={500}
+                    height={500}
+                  />
                 </Link>
               </div>
 
@@ -25,7 +23,7 @@ export default function Home() {
                 <div className="card-body">
                   <h5 className="card-title top-text">Enjoy the Wildlife?</h5>
                   <p className="card-text">
-                    View & learn about extinct animals all over the world!
+                    View and learn about extinct animals all over the world!
                   </p>
                   <button
                     className="btn  text-white landing-btn card-link"
