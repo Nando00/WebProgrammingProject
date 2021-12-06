@@ -25,7 +25,7 @@ body {
   text-align: center;
 }
 .card {
-  background-color: black;
+  background-color: black !important;
 }
 .card-text {
   font-family: Poppins;
