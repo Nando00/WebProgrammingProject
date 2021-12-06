@@ -43,11 +43,11 @@ body {
 }
 
 .featurette-cont {
-  margin-top: 10%;
-  margin-bottom: 10%;
+  margin-top: 10% !important;
+  margin-bottom: 10% !important;
 }
 .featurette {
-  margin-top: 10%;
+  margin-top: 10% !important;
   font-family: Rammetto One;
 }
 /*  */
@@ -57,7 +57,7 @@ body {
   left: 866px;
   top: 740px;
   border-radius: 0px;
-  background: #012805;
+  background: #012805 !important;
 }
 .top-text {
   font-size: 6rem;
