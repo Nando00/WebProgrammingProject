@@ -125,12 +125,11 @@ export default function Home() {
               <div className="text-white col-md-7 order-md-2">
                 <h2 className="featurette-heading">African Rhino</h2>
                 <p className="lead">
-                  {` There is three kinds of rhinos but there is only two white
+                  There is three kinds of rhinos but there is only two white
                   rhinos left in the world. They eat trees and bushes. Their
-                  habitat or source of food isn't why they're going
+                  habitat or source of food isn&apos;t why they&apos;re going
                   extinct. They are facing a constant threat of poaching for
                   their horns. There is only 27,000 rhinos left in the world.
-                  `}
                 </p>
               </div>
               <div className="col-md-5 order-md-1">
