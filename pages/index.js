@@ -50,7 +50,7 @@ export default function Home() {
                   carbon content.
                 </p>
               </div>
-              <div class="col-md-5">
+              <div className="col-md-5">
                 <Image
                   className="rounded "
                   width={550}
