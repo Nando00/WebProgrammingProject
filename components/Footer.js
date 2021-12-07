@@ -6,7 +6,7 @@ export default function Footer() {
     <div>
       <footer className="footer mt-auto py-3 bg-light">
         <div className="container">
-          The contributers are{" "}
+          The contributors are{" "}
           <Link href="https://nando00.github.io/mepersonal/">Fernando</Link> ,
           <Link href="https://www.kurbina.com/"> Keilin</Link> ,{" "}
           <Link href="https://nando00.github.io/IsraelPersonal/">Israel</Link>,{" "}
